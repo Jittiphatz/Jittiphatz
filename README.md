@@ -1,6 +1,6 @@
 <h1 align="center">Welcome to my profile!</h1>
-<h2 align="center">My Name is Jittiphat Somsai</h2>
-<h4 align="center">I'm 15 years old Developer and Drummer from Thailand.</h4>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Prompt&pause=1000&random=false&width=435&lines=Welcome+to+my+profile+GitHub!;My+Name+is+Jittiphat+Somsai.;I+study+in+Boonwattana+School.;I+like+coding+and+playing+drums.)](https://git.io/typing-svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MANNEZ4966&label=Profile%20views&color=0e75b6&style=flat" alt="MANNEZ4966" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MANNEZ4966" alt="MANNEZ4966" /></a> </p>
