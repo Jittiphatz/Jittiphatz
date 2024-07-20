@@ -2,8 +2,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Prompt&pause=1000&random=false&width=435&lines=Welcome+to+my+profile+GitHub!;My+Name+is+Jittiphat+Somsai.;I+study+in+Boonwattana+School.;I+like+coding+and+playing+drums.)](https://git.io/typing-svg)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=MANNEZ4966&label=Profile%20views&color=0e75b6&style=flat" alt="MANNEZ4966" /> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MANNEZ4966" alt="MANNEZ4966" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Jittiphatz&label=Profile%20views&color=0e75b6&style=flat" alt="Jittiphatz" /> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Jittiphatz" alt="Jittiphatz" /></a> </p>
 
 - 📚 I’m studying at [Boonwattana School](https://boon.ac.th)
 
@@ -35,9 +35,9 @@
 
 <p><img align="left" src="https://lanyard.cnrad.dev/api/776836808259534878" alt="MANEZ4966" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MANNEZ4966&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true" alt="MANEZ4966" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Jittiphatz&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true" alt="Jittiphatz" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MANNEZ4966&" alt="MANEZ4966" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Jittiphatz&" alt="Jittiphatz" /></p>
 
 
 <figure><embed src="https://wakatime.com/share/@018db4da-85ba-4f41-8efd-4ae5176d9ab7/3d96d50c-604d-47ca-838d-a8265f4459f0.svg"></embed></figure>
