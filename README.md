@@ -11,11 +11,11 @@
 
 - 💻 I’m currently learning **Next.JS**
 
-- 👨‍💻 All of my projects are available at [https://mannez.site](https://mannez.site)
+- 👨‍💻 All of my projects are available at [https://jittiphat.site](https://jittiphat.site)
 
 - 🥁 I’m a Drummer at [One Wen One Band](https://www.instagram.com/onewenoneband/)
 
-- 📫 Contact me **Jittiphat@mannez.site**
+- 📫 Contact me **Jittiphat@jittiphat.site**
 
 - 📥 If you like my project please donate me at [Link](https://ezdn.app/MANNEZ)
 
