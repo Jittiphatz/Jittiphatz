@@ -12,7 +12,7 @@
 
 - ⌨️ I’m currently working on [Ferrum Cloud](https://cloud.fe-grp.com)
 
-- 💻 I’m currently learning **Next.JS**
+- 💻 I’m currently learning [**Next.JS**](https://nextjs.org/) , [**Nuxt.JS**](https://nuxt.com/)
 
 - 👨‍💻 All of my projects are available at [https://jittiphat.site](https://jittiphat.site)
 
