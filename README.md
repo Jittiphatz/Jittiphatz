@@ -75,7 +75,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/discordjs/discordjs-original.svg" alt="discordjs" width="40" height="40"/> 
 </a>
 
-<h3 align="left">Deploymemt and Tools</h3>
+<h3 align="left">Deployment and Tools</h3>
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
 </a>
@@ -101,7 +101,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/firebase/firebase-original.svg" alt="firebase" width="40" height="40"/> 
 </a>
 
-<h3 align="left">Software and Design</h3>
+<h3 align="left">Software and Designs</h3>
 <a href="https://www.canva.com/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg" alt="canva" width="40" height="40"/> 
 </a>
