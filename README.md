@@ -3,6 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Prompt&pause=1000&random=false&width=435&lines=Welcome+to+my+profile+GitHub!;My+Name+is+Jittiphat+Somsai.;I+study+in+Boonwattana+School.;I+like+coding+and+playing+drums.)](https://git.io/typing-svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Jittiphatz&label=Profile%20views&color=0e75b6&style=flat" alt="Jittiphatz" /> </p>
+[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jittiphatz&layout=compact&langs_count=10&hide_border=true&custom_title=Languages&bg_color=00000000&hide=PHP)](https://github.com/Jittiphatz)
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Jittiphatz" alt="Jittiphatz" /></a> </p>
 
 - 📚 I’m studying at [Boonwattana School](https://boon.ac.th)
