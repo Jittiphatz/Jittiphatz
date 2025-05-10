@@ -4,10 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Jittiphatz&label=Profile%20views&color=0e75b6&style=flat" alt="Jittiphatz" /> </p>
 
-[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jittiphatz&layout=compact&langs_count=10&hide_border=true&custom_title=Languages&bg_color=00000000&hide=PHP)](https://github.com/Jittiphatz)
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Jittiphatz" alt="Jittiphatz" /></a> </p>
-
 - 📚 I’m studying at [Boonwattana School](https://boon.ac.th)
 
 - ⌨️ I’m currently working on [Ferrum Cloud](https://cloud.fe-grp.com)
@@ -24,116 +20,151 @@
 
 - ⚡ Fun fact **My Intel Core i3-10105 is so noob**
 
-<h3 align="left">My Social</h3>
+## 🌐 My Social
 <p align="left">
-<a href="https://www.facebook.com/Jittiphatz4966" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jittiphatz" height="30" width="40" /></a>
-<a href="https://www.instagram.com/mannez_xyz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mannez_xyz" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@mannez_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="jittiphatz" height="35" width="40" /></a>
-<a href="https://discord.com/users/776836808259534878" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="jittiphatz" height="40" width="40" /></a>
+<a href="https://www.facebook.com/Jittiphatz4966" target="blank"><img align="center" src="https://go-skill-icons.vercel.app/api/icons?i=facebook" alt="jittiphatz" height="30" width="40" /></a>
+<a href="https://www.instagram.com/mannez_xyz" target="blank"><img align="center" src="https://go-skill-icons.vercel.app/api/icons?i=instagram" alt="mannez_xyz" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@mannez_dev" target="blank"><img align="center" src="https://go-skill-icons.vercel.app/api/icons?i=youtube" alt="jittiphatz" height="35" width="40" /></a>
+<a href="https://discord.com/users/776836808259534878" target="blank"><img align="center" src="https://skillicons.dev/icons?i=discord" alt="jittiphatz" height="40" width="40" /></a>
 </p>
+
+## 🎓 Technologies
 
 <h3 align="left">Languages</h3>
 <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
+  <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/> 
 </a>
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+  <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> 
 </a>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-</a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="40" height="40"/> 
+  <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> 
 </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+  <img src="https://skillicons.dev/icons?i=javascript" alt="javascript" width="40" height="40"/> 
 </a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
+  <img src="https://skillicons.dev/icons?i=typescript" alt="typescript" width="40" height="40"/> 
+</a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"> 
+  <img src="https://skillicons.dev/icons?i=python" alt="python" width="40" height="40"/> 
 </a>
 
 <h3 align="left">Frameworks</h3>
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwindcss" width="40" height="40"/> 
+  <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwindcss" width="40" height="40"/> 
 </a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
+  <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> 
 </a>
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/> 
+  <img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" width="40" height="40"/> 
 </a>
 <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> 
+  <img src="https://skillicons.dev/icons?i=vuejs" alt="vuejs" width="40" height="40"/> 
 </a>
 <a href="https://nuxt.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/nuxtjs/nuxtjs-original.svg" alt="nuxtjs" width="40" height="40"/> 
+  <img src="https://skillicons.dev/icons?i=nuxtjs" alt="nuxtjs" width="40" height="40"/> 
 </a>
 <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg" alt="vitejs" width="40" height="40"/> 
+  <img src="https://skillicons.dev/icons?i=vite" alt="vitejs" width="40" height="40"/> 
+</a>
+<a href="https://mui.com/" target="_blank" rel="noreferrer"> 
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=materialui" alt="mui" width="40" height="40"/> 
 </a>
 <a href="https://discord.js.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/discordjs/discordjs-original.svg" alt="discordjs" width="40" height="40"/> 
+  <img src="https://skillicons.dev/icons?i=discordjs" alt="discordjs" width="40" height="40"/> 
 </a>
 
 <h3 align="left">Deployment and Tools</h3>
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
+  <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> 
 </a>
 <a href="https://bun.sh/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/bun/bun-original.svg" alt="bunjs" width="40" height="40"/> 
+  <img src="https://skillicons.dev/icons?i=bun" alt="bunjs" width="40" height="40"/> 
 </a>
 <a href="https://vercel.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original-wordmark.svg" alt="vercel" width="40" height="40"/> 
+  <img src="https://skillicons.dev/icons?i=vercel" alt="vercel" width="40" height="40"/> 
+</a>
+<a href="https://www.netlify.com/" target="_blank" rel="noreferrer"> 
+  <img src="https://skillicons.dev/icons?i=netlify" alt="netlify" width="40" height="40"/> 
 </a>
 <a href="https://www.nginx.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> 
+  <img src="https://skillicons.dev/icons?i=nginx" alt="nginx" width="40" height="40"/> 
 </a>
 <a href="https://wordpress.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" alt="wordpress" width="40" height="40"/> 
+  <img src="https://skillicons.dev/icons?i=wordpress" alt="wordpress" width="40" height="40"/> 
 </a>
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=aws" alt="aws" width="40" height="40"/>
 </a>
 <a href="https://www.cloudflare.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cloudflare/cloudflare-original-wordmark.svg" alt="cloudflare" width="40" height="40"/> 
+  <img src="https://skillicons.dev/icons?i=cloudflare" alt="cloudflare" width="40" height="40"/> 
 </a>
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/firebase/firebase-original.svg" alt="firebase" width="40" height="40"/> 
+  <img src="https://skillicons.dev/icons?i=firebase" alt="firebase" width="40" height="40"/> 
 </a>
 
 <h3 align="left">Software and Designs</h3>
-<a href="https://www.canva.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg" alt="canva" width="40" height="40"/> 
-</a>
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> 
+  <img src="https://skillicons.dev/icons?i=vscode" alt="vscode" width="40" height="40"/> 
 </a>
+<a href="https://www.canva.com/" target="_blank" rel="noreferrer"> 
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=canva" alt="canva" width="40" height="40"/> 
+</a>
+<a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer"> 
+  <img src="https://skillicons.dev/icons?i=ps" alt="ps" width="40" height="40"/> 
+</a>
+<a href="https://www.adobe.com/products/premiere.html" target="_blank" rel="noreferrer"> 
+  <img src="https://skillicons.dev/icons?i=pr" alt="pr" width="40" height="40"/> 
+</a>
+<a href="https://www.adobe.com/products/animate.html" target="_blank" rel="noreferrer"> 
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=animate" alt="an" width="40" height="40"/> 
+</a>
+<a href="https://www.vegascreativesoftware.com/" target="_blank" rel="noreferrer"> 
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=vegaspro" alt="vegaspro" width="40" height="40"/> 
+</a>
+<a href="https://www.microsoft.com/microsoft-365/word" target="_blank" rel="noreferrer"> 
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=word" alt="word" width="40" height="40"/> 
+</a>
+<a href="https://www.microsoft.com/microsoft-365/powerpoint" target="_blank" rel="noreferrer"> 
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=powerpoint" alt="vegaspro" width="40" height="40"/> 
+</a>
+<a href="https://www.microsoft.com/microsoft-365/excel" target="_blank" rel="noreferrer"> 
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=excel" alt="vegaspro" width="40" height="40"/> 
+</a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+  <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> 
+</a>
+<a href="https://www.github.com/" target="_blank" rel="noreferrer"> 
+  <img src="https://skillicons.dev/icons?i=github" alt="github" width="40" height="40"/> 
+</a>
+
 
 <h3 align="left">Operating Systems</h3>
 <a href="https://www.microsoft.com/en-us/windows/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/windows8/windows8-original.svg" alt="windows" width="40" height="40"/> 
+  <img src="https://skillicons.dev/icons?i=windows" alt="windows" width="40" height="40"/> 
 </a>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
+<a href="https://www.apple.com/macos" target="_blank" rel="noreferrer"> 
+  <img src="https://skillicons.dev/icons?i=apple" alt="apple" width="40" height="40"/> 
 </a>
 <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/ubuntu/ubuntu-original.svg" alt="ubuntu" width="40" height="40"/> 
+  <img src="https://skillicons.dev/icons?i=ubuntu" alt="ubuntu" width="40" height="40"/> 
 </a>
 
 <h3 align="left">Database</h3>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
+  <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> 
 </a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
+  <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> 
 </a>
 
-
+## 💫 Stats
 <p><img align="left" src="https://lanyard.cnrad.dev/api/776836808259534878" alt="MANEZ4966" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Jittiphatz&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true" alt="Jittiphatz" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Jittiphatz&" alt="Jittiphatz" /></p>
+[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jittiphatz&layout=compact&langs_count=10&hide_border=true&custom_title=Languages&bg_color=00000000&hide=PHP)](https://github.com/Jittiphatz)
 
-
-<figure><embed src="https://wakatime.com/share/@018db4da-85ba-4f41-8efd-4ae5176d9ab7/3d96d50c-604d-47ca-838d-a8265f4459f0.svg"></embed></figure>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Jittiphatz" alt="Jittiphatz" /></a> </p>
