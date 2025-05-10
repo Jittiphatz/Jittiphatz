@@ -161,10 +161,10 @@
 </a>
 
 ## 💫 Stats
-<p><img align="left" src="https://lanyard.cnrad.dev/api/776836808259534878" alt="MANEZ4966" /></p>
+[![Discord](https://lanyard.cnrad.dev/api/776836808259534878)](http://discord.com/users/776836808259534878)
 
-[![Languages](https://github-readme-stats.vercel.app/api?username=Jittiphatz&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true)](https://github.com/Jittiphatz)
+[![top-lang](https://github-readme-stats.vercel.app/api?username=Jittiphatz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)](https://github.com/Jittiphatz)
 
 [![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jittiphatz&layout=compact&hide_progress=true)](https://github.com/Jittiphatz)
 
-<p align="left"> <a href="https://github.com/Jittiphatz"><img src="https://github-profile-trophy.vercel.app/?username=Jittiphatz" alt="Jittiphatz" /></a> </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=Jittiphatz)](https://github.com/Jittiphatz)
