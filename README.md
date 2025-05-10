@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to my profile!</h1>
+<h1 align="center">Welcome to my github profile!</h1>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Prompt&pause=1000&random=false&width=435&lines=Welcome+to+my+profile+GitHub!;My+Name+is+Jittiphat+Somsai.;I+study+in+Boonwattana+School.;I+like+coding+and+playing+drums.)](https://git.io/typing-svg)
 
@@ -30,7 +30,7 @@
 
 ## 🎓 Technologies
 
-<h3 align="left">Languages</h3>
+<h3 align="left">💠 Languages</h3>
 <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
   <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/> 
 </a>
@@ -50,7 +50,7 @@
   <img src="https://skillicons.dev/icons?i=python" alt="python" width="40" height="40"/> 
 </a>
 
-<h3 align="left">Frameworks</h3>
+<h3 align="left">🔥 Frameworks</h3>
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
   <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwindcss" width="40" height="40"/> 
 </a>
@@ -76,7 +76,7 @@
   <img src="https://skillicons.dev/icons?i=discordjs" alt="discordjs" width="40" height="40"/> 
 </a>
 
-<h3 align="left">Deployments and Tools</h3>
+<h3 align="left">🛠 Deployments and Tools</h3>
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
   <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> 
 </a>
@@ -105,7 +105,7 @@
   <img src="https://skillicons.dev/icons?i=firebase" alt="firebase" width="40" height="40"/> 
 </a>
 
-<h3 align="left">Softwares and Designs</h3>
+<h3 align="left">🎈 Softwares and Designs</h3>
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
   <img src="https://skillicons.dev/icons?i=vscode" alt="vscode" width="40" height="40"/> 
 </a>
@@ -141,7 +141,7 @@
 </a>
 
 
-<h3 align="left">Operating Systems</h3>
+<h3 align="left">💻 Operating Systems</h3>
 <a href="https://www.microsoft.com/en-us/windows/" target="_blank" rel="noreferrer"> 
   <img src="https://skillicons.dev/icons?i=windows" alt="windows" width="40" height="40"/> 
 </a>
@@ -152,7 +152,7 @@
   <img src="https://skillicons.dev/icons?i=ubuntu" alt="ubuntu" width="40" height="40"/> 
 </a>
 
-<h3 align="left">Database</h3>
+<h3 align="left">💾 Database</h3>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
   <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> 
 </a>
