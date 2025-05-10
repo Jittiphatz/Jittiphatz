@@ -76,7 +76,7 @@
   <img src="https://skillicons.dev/icons?i=discordjs" alt="discordjs" width="40" height="40"/> 
 </a>
 
-<h3 align="left">Deployment and Tools</h3>
+<h3 align="left">Deployments and Tools</h3>
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
   <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> 
 </a>
@@ -105,7 +105,7 @@
   <img src="https://skillicons.dev/icons?i=firebase" alt="firebase" width="40" height="40"/> 
 </a>
 
-<h3 align="left">Software and Designs</h3>
+<h3 align="left">Softwares and Designs</h3>
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
   <img src="https://skillicons.dev/icons?i=vscode" alt="vscode" width="40" height="40"/> 
 </a>
