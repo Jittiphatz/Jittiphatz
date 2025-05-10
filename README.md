@@ -163,8 +163,8 @@
 ## 💫 Stats
 <p><img align="left" src="https://lanyard.cnrad.dev/api/776836808259534878" alt="MANEZ4966" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Jittiphatz&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true" alt="Jittiphatz" /></p>
+[![Languages](https://github-readme-stats.vercel.app/api?username=Jittiphatz&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true)](https://github.com/Jittiphatz)
 
-[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jittiphatz&layout=compact&langs_count=10&hide_border=true&custom_title=Languages&bg_color=00000000&hide=PHP)](https://github.com/Jittiphatz)
+[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jittiphatz&layout=compact&hide_progress=true)](https://github.com/Jittiphatz)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Jittiphatz" alt="Jittiphatz" /></a> </p>
+<p align="left"> <a href="https://github.com/Jittiphatz"><img src="https://github-profile-trophy.vercel.app/?username=Jittiphatz" alt="Jittiphatz" /></a> </p>
