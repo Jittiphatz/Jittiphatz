@@ -163,8 +163,8 @@
 ## 💫 Stats
 [![Discord](https://lanyard.cnrad.dev/api/776836808259534878)](http://discord.com/users/776836808259534878)
 
-[![top-lang](https://github-readme-stats.vercel.app/api?username=Jittiphatz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)](https://github.com/Jittiphatz)
-
 [![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jittiphatz&layout=compact)](https://github.com/Jittiphatz)
+
+[![top-lang](https://github-readme-stats.vercel.app/api?username=Jittiphatz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)](https://github.com/Jittiphatz)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Jittiphatz)](https://github.com/Jittiphatz)
