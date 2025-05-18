@@ -161,7 +161,7 @@
 </a>
 
 ## 💫 Stats
-[![Discord](https://lanyard.cnrad.dev/api/776836808259534878)](http://discord.com/users/776836808259534878)
+[![Discord](https://lanyard.cnrad.dev/api/776836808259534878?bg=3e3b5f)](http://discord.com/users/776836808259534878)
 
 [![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jittiphatz&layout=compact)](https://github.com/Jittiphatz)
 
