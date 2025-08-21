@@ -10,11 +10,11 @@
 
 - 💻 I’m currently learning [**Next.JS**](https://nextjs.org/) , [**Nuxt.JS**](https://nuxt.com/)
 
-- 👨‍💻 All of my projects are available at [https://jittiphat.site](https://jittiphat.site)
+- 👨‍💻 All of my projects are available at [https://jittiphat.space](https://jittiphat.space)
 
 - 🥁 I’m a Drummer at [One Wen One Band](https://www.instagram.com/onewenoneband/)
 
-- 📫 Contact me **Jittiphat@jittiphat.site**
+- 📫 Contact me **Jittiphat@jittiphat.space**
 
 - 📥 If you like my project please donate me at [Link](https://ezdn.app/MANNEZ)
 
